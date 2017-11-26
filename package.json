@@ -38,7 +38,7 @@
     "files"
   ],
   "dependencies": {
-    "send-to-git": "^1.0.0",
+    "send-to-git": "git+https://github.com/simonflk/send-to-git.git#dist/send-to-root",
     "yargs": "^8.0.2"
   },
   "devDependencies": {
