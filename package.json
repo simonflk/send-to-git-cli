@@ -1,6 +1,6 @@
 {
   "name": "send-to-git-cli",
-  "version": "1.0.0",
+  "version": "1.0.0-send-to-root.1",
   "description": "Keeps in sync a folder and their files with a folder of a git repository",
   "scripts": {
     "build": "babel src -d build -s",
